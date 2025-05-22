@@ -13,7 +13,7 @@ Bu projede **3D artist** olarak görev aldım. Oyundaki yaratıkları **tamamen 
 - Substance Painter 
 - Unity Engine (Entegrasyon)
 
-
+<br><br><br>
 
 
 
